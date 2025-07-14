@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,12 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
