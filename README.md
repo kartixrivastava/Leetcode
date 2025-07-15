@@ -36,5 +36,10 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartixrivastava/Leetcode-/tree/master/0020-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartixrivastava/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
