@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0001-two-sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -52,6 +54,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -65,6 +68,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
