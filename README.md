@@ -56,6 +56,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/kartixrivastava/Leetcode-/tree/master/0476-number-complement) |
 ## Divide and Conquer
 |  |
 | ------- |
