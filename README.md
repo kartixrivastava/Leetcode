@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartixrivastava/Leetcode-/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
