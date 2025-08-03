@@ -47,6 +47,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/kartixrivastava/Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/kartixrivastava/Leetcode-/tree/master/0020-valid-parentheses) |
 ## Bit Manipulation
 |  |
