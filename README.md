@@ -27,6 +27,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartixrivastava/Leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
