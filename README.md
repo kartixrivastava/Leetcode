@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0001-two-sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
@@ -66,10 +67,12 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
