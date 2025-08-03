@@ -32,6 +32,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/kartixrivastava/Leetcode-/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
