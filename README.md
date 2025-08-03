@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kartixrivastava/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
@@ -76,6 +77,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kartixrivastava/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
