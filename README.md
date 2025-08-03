@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -38,6 +39,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
