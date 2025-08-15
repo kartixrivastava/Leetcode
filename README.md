@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0074-search-a-2d-matrix) |
@@ -76,6 +77,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartixrivastava/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0189-rotate-array) |
@@ -132,6 +134,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0414-third-maximum-number) |
