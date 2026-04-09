@@ -65,6 +65,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
@@ -78,6 +79,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0119-pascals-triangle-ii](https://github.com/kartixrivastava/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,4 +196,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartixrivastava/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
