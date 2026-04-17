@@ -60,6 +60,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0007-reverse-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0013-roman-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kartixrivastava/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartixrivastava/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kartixrivastava/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
 ## Bit Manipulation
@@ -170,6 +172,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0566-reshape-the-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
