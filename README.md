@@ -50,6 +50,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/kartixrivastava/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -87,6 +88,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0015-3sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartixrivastava/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/kartixrivastava/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kartixrivastava/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartixrivastava/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0189-rotate-array) |
