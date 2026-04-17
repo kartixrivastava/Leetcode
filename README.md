@@ -34,6 +34,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -72,6 +73,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartixrivastava/Leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
@@ -178,6 +180,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0566-reshape-the-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,6 +190,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 ## Geometry
 |  |
@@ -205,4 +209,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
