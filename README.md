@@ -152,6 +152,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartixrivastava/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/kartixrivastava/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0878-nth-magical-number](https://github.com/kartixrivastava/Leetcode/tree/master/0878-nth-magical-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -223,4 +224,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartixrivastava/Leetcode/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kartixrivastava/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
