@@ -117,6 +117,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kartixrivastava/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
+| [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +209,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
 | ------- |
