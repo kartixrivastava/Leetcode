@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1232-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
@@ -47,6 +48,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0001-two-sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -208,6 +210,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Counting Sort
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
