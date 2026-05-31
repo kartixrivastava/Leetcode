@@ -37,6 +37,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/kartixrivastava/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
@@ -169,6 +170,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0414-third-maximum-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2126-destroying-asteroids](https://github.com/kartixrivastava/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -183,6 +185,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
+| [2126-destroying-asteroids](https://github.com/kartixrivastava/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Simulation
 |  |
 | ------- |
