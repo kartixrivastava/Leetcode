@@ -83,6 +83,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartixrivastava/Leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0152-maximum-product-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,4 +238,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kartixrivastava/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
