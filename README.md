@@ -245,4 +245,16 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
