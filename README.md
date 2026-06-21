@@ -250,6 +250,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -260,14 +261,17 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
