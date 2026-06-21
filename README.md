@@ -62,6 +62,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kartixrivastava/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/kartixrivastava/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -96,6 +97,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartixrivastava/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kartixrivastava/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
