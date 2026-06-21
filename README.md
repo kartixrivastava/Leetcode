@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0004-median-of-two-sorted-arrays](https://github.com/kartixrivastava/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kartixrivastava/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartixrivastava/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartixrivastava/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
@@ -106,6 +107,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0015-3sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartixrivastava/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartixrivastava/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartixrivastava/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/kartixrivastava/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kartixrivastava/Leetcode/tree/master/0075-sort-colors) |
