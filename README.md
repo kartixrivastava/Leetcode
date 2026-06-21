@@ -270,6 +270,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0100-same-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -282,6 +283,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0100-same-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -289,11 +291,13 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0100-same-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
