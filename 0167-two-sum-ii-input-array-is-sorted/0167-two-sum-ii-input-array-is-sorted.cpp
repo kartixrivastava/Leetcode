@@ -1,8 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        int st = 0, end = n - 1;
+        int st = 0, end = nums.size() - 1;
         while (st < end) {
             int sum = nums[st] + nums[end];
             if (sum == target) {
