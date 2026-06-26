@@ -43,6 +43,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/kartixrivastava/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
@@ -198,6 +199,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/kartixrivastava/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -246,6 +248,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
