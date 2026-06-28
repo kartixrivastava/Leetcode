@@ -63,6 +63,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/kartixrivastava/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3945-digit-frequency-score](https://github.com/kartixrivastava/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -99,6 +100,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/kartixrivastava/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/kartixrivastava/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartixrivastava/Leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
