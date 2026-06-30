@@ -91,6 +91,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
+| [0866-prime-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0866-prime-palindrome) |
 | [0878-nth-magical-number](https://github.com/kartixrivastava/Leetcode/tree/master/0878-nth-magical-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -247,6 +248,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0866-prime-palindrome) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
