@@ -90,6 +90,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/kartixrivastava/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0866-prime-palindrome) |
 | [0878-nth-magical-number](https://github.com/kartixrivastava/Leetcode/tree/master/0878-nth-magical-number) |
@@ -193,6 +194,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0222-count-complete-tree-nodes](https://github.com/kartixrivastava/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/kartixrivastava/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kartixrivastava/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0878-nth-magical-number](https://github.com/kartixrivastava/Leetcode/tree/master/0878-nth-magical-number) |
