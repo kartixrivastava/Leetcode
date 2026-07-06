@@ -97,6 +97,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0866-prime-palindrome) |
 | [0878-nth-magical-number](https://github.com/kartixrivastava/Leetcode/tree/master/0878-nth-magical-number) |
+| [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
@@ -156,6 +157,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0058-length-of-last-word](https://github.com/kartixrivastava/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
 | [0504-base-7](https://github.com/kartixrivastava/Leetcode/tree/master/0504-base-7) |
+| [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3210-find-the-encrypted-string](https://github.com/kartixrivastava/Leetcode/tree/master/3210-find-the-encrypted-string) |
 ## Bit Manipulation
