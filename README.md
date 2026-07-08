@@ -157,6 +157,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kartixrivastava/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0504-base-7](https://github.com/kartixrivastava/Leetcode/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -309,6 +310,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0102-binary-tree-level-order-traversal](https://github.com/kartixrivastava/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kartixrivastava/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -326,6 +328,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0102-binary-tree-level-order-traversal](https://github.com/kartixrivastava/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kartixrivastava/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -335,6 +338,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0100-same-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -348,4 +352,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kartixrivastava/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
