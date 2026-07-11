@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kartixrivastava/Leetcode/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartixrivastava/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
@@ -185,6 +186,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartixrivastava/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -319,6 +321,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartixrivastava/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/kartixrivastava/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -328,6 +331,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -338,6 +342,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0101-symmetric-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartixrivastava/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/kartixrivastava/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
