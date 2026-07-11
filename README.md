@@ -56,6 +56,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
+| [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3210-find-the-encrypted-string](https://github.com/kartixrivastava/Leetcode/tree/master/3210-find-the-encrypted-string) |
+| [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Prefix Sum
 |  |
 | ------- |
