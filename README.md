@@ -56,6 +56,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/kartixrivastava/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
