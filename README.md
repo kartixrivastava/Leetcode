@@ -320,6 +320,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/kartixrivastava/Leetcode/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/kartixrivastava/Leetcode/tree/master/3765-complete-prime-number) |
 ## Tree
