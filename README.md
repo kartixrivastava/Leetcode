@@ -57,6 +57,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kartixrivastava/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartixrivastava/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/kartixrivastava/Leetcode/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kartixrivastava/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/kartixrivastava/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
@@ -150,6 +152,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -239,6 +242,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +269,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Prefix Sum
 |  |
@@ -281,6 +286,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [3765-complete-prime-number](https://github.com/kartixrivastava/Leetcode/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kartixrivastava/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Geometry
 |  |
