@@ -35,6 +35,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0724-find-pivot-index](https://github.com/kartixrivastava/Leetcode-/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0941-valid-mountain-array](https://github.com/kartixrivastava/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kartixrivastava/Leetcode/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
