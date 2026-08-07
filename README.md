@@ -62,6 +62,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3683-earliest-time-to-finish-one-task](https://github.com/kartixrivastava/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/kartixrivastava/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartixrivastava/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/kartixrivastava/Leetcode/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/kartixrivastava/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kartixrivastava/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/kartixrivastava/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
