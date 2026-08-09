@@ -53,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/kartixrivastava/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
@@ -259,6 +260,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2126-destroying-asteroids](https://github.com/kartixrivastava/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/kartixrivastava/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
