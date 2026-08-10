@@ -103,6 +103,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0013-roman-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
+| [0089-gray-code](https://github.com/kartixrivastava/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
@@ -197,6 +198,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/kartixrivastava/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kartixrivastava/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -424,6 +426,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/kartixrivastava/Leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Brainteaser
 |  |
