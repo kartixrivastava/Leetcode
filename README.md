@@ -107,6 +107,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/kartixrivastava/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/kartixrivastava/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
