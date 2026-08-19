@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0027-remove-element](https://github.com/kartixrivastava/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartixrivastava/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0074-search-a-2d-matrix) |
@@ -165,6 +166,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartixrivastava/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kartixrivastava/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartixrivastava/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kartixrivastava/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kartixrivastava/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartixrivastava/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -181,6 +183,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartixrivastava/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -228,6 +231,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartixrivastava/Leetcode-/tree/master/0119-pascals-triangle-ii) |
@@ -466,4 +470,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kartixrivastava/Leetcode/tree/master/0176-second-highest-salary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
