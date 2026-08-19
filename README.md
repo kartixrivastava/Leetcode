@@ -474,4 +474,12 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
