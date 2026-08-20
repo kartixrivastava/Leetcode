@@ -61,6 +61,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartixrivastava/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kartixrivastava/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartixrivastava/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -308,6 +309,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kartixrivastava/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kartixrivastava/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/kartixrivastava/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
