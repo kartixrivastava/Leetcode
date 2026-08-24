@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kartixrivastava/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartixrivastava/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
@@ -129,6 +130,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartixrivastava/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kartixrivastava/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/kartixrivastava/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -241,6 +243,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0152-maximum-product-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
+| [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
@@ -320,6 +323,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kartixrivastava/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/kartixrivastava/Leetcode-/tree/master/0724-find-pivot-index) |
+| [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 ## Number Theory
 |  |
@@ -456,11 +460,13 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -469,6 +475,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
