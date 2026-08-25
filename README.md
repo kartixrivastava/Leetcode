@@ -481,6 +481,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kartixrivastava/Leetcode/tree/master/0176-second-highest-salary) |
+| [1683-invalid-tweets](https://github.com/kartixrivastava/Leetcode/tree/master/1683-invalid-tweets) |
 ## Monotonic Stack
 |  |
 | ------- |
