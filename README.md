@@ -485,6 +485,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0176-second-highest-salary](https://github.com/kartixrivastava/Leetcode/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/kartixrivastava/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kartixrivastava/Leetcode/tree/master/0595-big-countries) |
+| [1527-patients-with-a-condition](https://github.com/kartixrivastava/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/kartixrivastava/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kartixrivastava/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Monotonic Stack
