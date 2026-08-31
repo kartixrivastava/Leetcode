@@ -488,6 +488,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0620-not-boring-movies](https://github.com/kartixrivastava/Leetcode/tree/master/0620-not-boring-movies) |
 | [1527-patients-with-a-condition](https://github.com/kartixrivastava/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/kartixrivastava/Leetcode/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/kartixrivastava/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kartixrivastava/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Monotonic Stack
 |  |
