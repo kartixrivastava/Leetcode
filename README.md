@@ -207,6 +207,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0504-base-7](https://github.com/kartixrivastava/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/kartixrivastava/Leetcode/tree/master/0520-detect-capital) |
+| [1143-longest-common-subsequence](https://github.com/kartixrivastava/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3210-find-the-encrypted-string](https://github.com/kartixrivastava/Leetcode/tree/master/3210-find-the-encrypted-string) |
@@ -245,6 +246,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0152-maximum-product-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/kartixrivastava/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
@@ -502,4 +504,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kartixrivastava/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
