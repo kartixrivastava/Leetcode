@@ -71,6 +71,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/kartixrivastava/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/kartixrivastava/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
@@ -329,6 +330,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0724-find-pivot-index](https://github.com/kartixrivastava/Leetcode-/tree/master/0724-find-pivot-index) |
 | [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/kartixrivastava/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
