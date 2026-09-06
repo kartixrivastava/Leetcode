@@ -35,6 +35,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0540-single-element-in-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/kartixrivastava/Leetcode-/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/kartixrivastava/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/kartixrivastava/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -297,6 +298,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0048-rotate-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/kartixrivastava/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
