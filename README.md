@@ -67,6 +67,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartixrivastava/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartixrivastava/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kartixrivastava/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
@@ -89,6 +90,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/kartixrivastava/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartixrivastava/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/kartixrivastava/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -166,6 +168,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -388,6 +391,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [1291-sequential-digits](https://github.com/kartixrivastava/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartixrivastava/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/kartixrivastava/Leetcode/tree/master/3765-complete-prime-number) |
 ## Tree
