@@ -65,6 +65,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartixrivastava/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartixrivastava/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/kartixrivastava/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -145,6 +146,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2579-count-total-number-of-colored-cells](https://github.com/kartixrivastava/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/kartixrivastava/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/kartixrivastava/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartixrivastava/Leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
