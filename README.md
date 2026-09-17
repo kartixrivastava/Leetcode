@@ -182,6 +182,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kartixrivastava/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kartixrivastava/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartixrivastava/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartixrivastava/Leetcode/tree/master/0283-move-zeroes) |
@@ -211,6 +212,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kartixrivastava/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/kartixrivastava/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0504-base-7](https://github.com/kartixrivastava/Leetcode/tree/master/0504-base-7) |
