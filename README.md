@@ -219,6 +219,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0520-detect-capital](https://github.com/kartixrivastava/Leetcode/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/kartixrivastava/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/kartixrivastava/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/kartixrivastava/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3210-find-the-encrypted-string](https://github.com/kartixrivastava/Leetcode/tree/master/3210-find-the-encrypted-string) |
@@ -367,6 +368,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1051-height-checker](https://github.com/kartixrivastava/Leetcode/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/kartixrivastava/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
