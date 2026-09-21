@@ -53,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartixrivastava/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
@@ -193,6 +194,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -223,6 +225,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kartixrivastava/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/kartixrivastava/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3210-find-the-encrypted-string](https://github.com/kartixrivastava/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
