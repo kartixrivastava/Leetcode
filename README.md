@@ -533,4 +533,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kartixrivastava/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kartixrivastava/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
