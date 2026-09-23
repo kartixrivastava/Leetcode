@@ -51,6 +51,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kartixrivastava/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/kartixrivastava/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kartixrivastava/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartixrivastava/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -139,6 +140,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartixrivastava/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kartixrivastava/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kartixrivastava/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
@@ -245,6 +247,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/kartixrivastava/Leetcode-/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kartixrivastava/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartixrivastava/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
