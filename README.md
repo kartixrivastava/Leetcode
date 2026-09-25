@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0001-two-sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kartixrivastava/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/kartixrivastava/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -222,6 +223,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0115-distinct-subsequences](https://github.com/kartixrivastava/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/kartixrivastava/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kartixrivastava/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0504-base-7](https://github.com/kartixrivastava/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/kartixrivastava/Leetcode/tree/master/0520-detect-capital) |
@@ -297,6 +299,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0015-3sum](https://github.com/kartixrivastava/Leetcode-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kartixrivastava/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/kartixrivastava/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
