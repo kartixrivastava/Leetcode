@@ -208,6 +208,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartixrivastava/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartixrivastava/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartixrivastava/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -229,6 +230,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0520-detect-capital](https://github.com/kartixrivastava/Leetcode/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/kartixrivastava/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/kartixrivastava/Leetcode/tree/master/1154-day-of-the-year) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartixrivastava/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kartixrivastava/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/kartixrivastava/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -545,4 +547,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kartixrivastava/Leetcode/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartixrivastava/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
