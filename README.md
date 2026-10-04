@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3895-count-digit-appearances](https://github.com/kartixrivastava/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/kartixrivastava/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/kartixrivastava/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3895-count-digit-appearances](https://github.com/kartixrivastava/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/kartixrivastava/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/kartixrivastava/Leetcode/tree/master/3945-digit-frequency-score) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/kartixrivastava/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Recursion
 |  |
 | ------- |
