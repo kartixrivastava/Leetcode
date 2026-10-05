@@ -77,6 +77,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartixrivastava/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kartixrivastava/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/kartixrivastava/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/kartixrivastava/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -324,6 +325,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartixrivastava/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
