@@ -163,6 +163,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartixrivastava/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3492-maximum-containers-on-a-ship](https://github.com/kartixrivastava/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartixrivastava/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartixrivastava/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartixrivastava/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
