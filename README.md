@@ -159,6 +159,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2579-count-total-number-of-colored-cells](https://github.com/kartixrivastava/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/kartixrivastava/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2928-distribute-candies-among-children-i](https://github.com/kartixrivastava/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/kartixrivastava/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartixrivastava/Leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
@@ -421,6 +422,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2928-distribute-candies-among-children-i](https://github.com/kartixrivastava/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 ## Trie
 |  |
 | ------- |
@@ -433,6 +435,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kartixrivastava/Leetcode/tree/master/1291-sequential-digits) |
+| [2928-distribute-candies-among-children-i](https://github.com/kartixrivastava/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartixrivastava/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartixrivastava/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
