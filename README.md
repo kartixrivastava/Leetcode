@@ -39,6 +39,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-valid-mountain-array](https://github.com/kartixrivastava/Leetcode/tree/master/0941-valid-mountain-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/kartixrivastava/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kartixrivastava/Leetcode/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -264,6 +265,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/kartixrivastava/Leetcode-/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/kartixrivastava/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kartixrivastava/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartixrivastava/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
