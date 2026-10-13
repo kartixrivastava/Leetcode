@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartixrivastava/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartixrivastava/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kartixrivastava/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kartixrivastava/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -336,6 +337,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kartixrivastava/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartixrivastava/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kartixrivastava/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kartixrivastava/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -359,6 +361,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2029-stone-game-ix](https://github.com/kartixrivastava/Leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kartixrivastava/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/kartixrivastava/Leetcode/tree/master/2126-destroying-asteroids) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kartixrivastava/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
