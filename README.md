@@ -89,6 +89,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3903-smallest-stable-index-i](https://github.com/kartixrivastava/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/kartixrivastava/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [4020-elevator-requests-i](https://github.com/kartixrivastava/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -378,6 +379,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/kartixrivastava/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
+| [4020-elevator-requests-i](https://github.com/kartixrivastava/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
 |  |
 | ------- |
