@@ -54,6 +54,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kartixrivastava/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/kartixrivastava/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kartixrivastava/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kartixrivastava/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartixrivastava/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -155,6 +156,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartixrivastava/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kartixrivastava/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kartixrivastava/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/kartixrivastava/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -194,6 +196,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kartixrivastava/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -371,6 +374,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0043-multiply-strings](https://github.com/kartixrivastava/Leetcode/tree/master/0043-multiply-strings) |
 | [0566-reshape-the-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kartixrivastava/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kartixrivastava/Leetcode-/tree/master/2058-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -592,4 +596,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartixrivastava/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kartixrivastava/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartixrivastava/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kartixrivastava/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
