@@ -73,6 +73,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/kartixrivastava/Leetcode-/tree/master/2722-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartixrivastava/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartixrivastava/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartixrivastava/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/kartixrivastava/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -221,6 +222,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartixrivastava/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -320,6 +322,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0878-nth-magical-number](https://github.com/kartixrivastava/Leetcode/tree/master/0878-nth-magical-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartixrivastava/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -341,6 +344,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartixrivastava/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/kartixrivastava/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kartixrivastava/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartixrivastava/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartixrivastava/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kartixrivastava/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
