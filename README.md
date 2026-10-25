@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartixrivastava/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartixrivastava/Leetcode-/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/kartixrivastava/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartixrivastava/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -364,6 +365,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/kartixrivastava/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartixrivastava/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
