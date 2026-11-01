@@ -35,6 +35,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0287-find-the-duplicate-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartixrivastava/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/kartixrivastava/Leetcode-/tree/master/0724-find-pivot-index) |
@@ -148,6 +149,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kartixrivastava/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartixrivastava/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/kartixrivastava/Leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/kartixrivastava/Leetcode/tree/master/0866-prime-palindrome) |
@@ -338,6 +340,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0242-valid-anagram](https://github.com/kartixrivastava/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kartixrivastava/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
