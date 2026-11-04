@@ -38,6 +38,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/0566-reshape-the-matrix) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kartixrivastava/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/kartixrivastava/Leetcode-/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/kartixrivastava/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
