@@ -52,6 +52,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartixrivastava/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -228,6 +229,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0861-flipping-an-image](https://github.com/kartixrivastava/Leetcode-/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartixrivastava/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartixrivastava/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -330,6 +332,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0540-single-element-in-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0878-nth-magical-number](https://github.com/kartixrivastava/Leetcode/tree/master/0878-nth-magical-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartixrivastava/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kartixrivastava/Leetcode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartixrivastava/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -345,6 +348,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1019-squares-of-a-sorted-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kartixrivastava/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartixrivastava/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartixrivastava/Leetcode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/kartixrivastava/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartixrivastava/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
