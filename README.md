@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartixrivastava/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/kartixrivastava/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kartixrivastava/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/kartixrivastava/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
