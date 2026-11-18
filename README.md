@@ -273,6 +273,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/kartixrivastava/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kartixrivastava/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2833-furthest-point-from-origin](https://github.com/kartixrivastava/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kartixrivastava/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3210-find-the-encrypted-string](https://github.com/kartixrivastava/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
