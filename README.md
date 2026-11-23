@@ -52,6 +52,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kartixrivastava/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartixrivastava/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kartixrivastava/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -164,6 +165,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kartixrivastava/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/kartixrivastava/Leetcode-/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kartixrivastava/Leetcode-/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartixrivastava/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -417,6 +419,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kartixrivastava/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/kartixrivastava/Leetcode-/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/kartixrivastava/Leetcode/tree/master/1872-stone-game-viii) |
 | [2714-left-and-right-sum-differences](https://github.com/kartixrivastava/Leetcode-/tree/master/2714-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/kartixrivastava/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -628,4 +631,12 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kartixrivastava/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
