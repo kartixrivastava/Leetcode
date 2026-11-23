@@ -239,6 +239,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kartixrivastava/Leetcode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartixrivastava/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3884-first-matching-character-from-both-ends](https://github.com/kartixrivastava/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
@@ -280,6 +281,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3210-find-the-encrypted-string](https://github.com/kartixrivastava/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/kartixrivastava/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/kartixrivastava/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/kartixrivastava/Leetcode/tree/master/3921-score-validator) |
 ## Bit Manipulation
