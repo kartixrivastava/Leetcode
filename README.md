@@ -111,6 +111,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0012-integer-to-roman](https://github.com/kartixrivastava/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kartixrivastava/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/kartixrivastava/Leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartixrivastava/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kartixrivastava/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -150,6 +151,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0089-gray-code](https://github.com/kartixrivastava/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/kartixrivastava/Leetcode-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/kartixrivastava/Leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kartixrivastava/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kartixrivastava/Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartixrivastava/Leetcode-/tree/master/0342-power-of-four) |
@@ -319,6 +321,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [0118-pascals-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartixrivastava/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/kartixrivastava/Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/kartixrivastava/Leetcode-/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kartixrivastava/Leetcode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/kartixrivastava/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -646,4 +649,8 @@ This repository contains my solutions to various LeetCode problems, written in C
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/kartixrivastava/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/kartixrivastava/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
