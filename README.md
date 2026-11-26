@@ -192,6 +192,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [3227-vowels-game-in-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3321-type-of-triangle](https://github.com/kartixrivastava/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartixrivastava/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/kartixrivastava/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kartixrivastava/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/kartixrivastava/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartixrivastava/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -416,6 +417,7 @@ This repository contains my solutions to various LeetCode problems, written in C
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kartixrivastava/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartixrivastava/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/kartixrivastava/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartixrivastava/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartixrivastava/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/kartixrivastava/Leetcode/tree/master/3894-traffic-signal-color) |
